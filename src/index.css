@@ -1,5 +1,5 @@
 body {
-  margin: 0;
+  margin: 50px;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
     "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
     sans-serif;
@@ -11,3 +11,37 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.mandat {
+  color: red;
+}
+
+.select-choice {
+  size: 8;
+}
+
+.form-group-row {
+  padding-top: 2ex;
+  text-align: center;
+}
+
+.text {
+  padding: 2ex;
+}
+
+.button {
+  padding: 2ex;
+}
+
+.title {
+  background-color:darkslateblue;
+  color: white;
+  text-align: center;
+  font-family: Garamond, Helvetica, sans-serif;
+}
+
+/* label {
+  padding: 2ex;
+} */
+
+
